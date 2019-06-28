@@ -1,6 +1,6 @@
 # watcher
 
-[![Build Status](https://travis-ci.org/radovskyb/watcher.svg?branch=master)](https://travis-ci.org/radovskyb/watcher)
+[![Build Status](https://travis-ci.org/0x0BSoD/watcher.svg?branch=master)](https://travis-ci.org/0x0BSoD/watcher)
 
 `watcher` is a Go package for watching for files or directory changes (recursively or non recursively) without using filesystem events, which allows it to work cross platform consistently.
 
